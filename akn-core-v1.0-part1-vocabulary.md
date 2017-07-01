@@ -945,6 +945,7 @@ bill/act/ordinance/decree/subsidiary legislation/executive orders/ normative sta
 
 這些是由議會活動或其他有權力機構（如委員會）提出的審議文件。它們通常根據分層結構製作，其中文本被細分為段落或章節。還有細分為條款或文章，小段等。
 
+
 These are deliberative documents produced by parliamentary activities or from other empowered bodies (e.g. Committee). They are usually drawn up according to a hierarchical structure in which the text is subdivided into sections or chapters. These are subdivided into clauses or articles, sub-paragraphs, etc.
 
 </td>
